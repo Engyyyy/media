@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "name": "Terrence Ziemann",
+      "id": 3
+    },
+    {
+      "name": "Mr. Bennie Hackett",
+      "id": 4
+    },
+    {
+      "name": "Dr. Rodolfo Ebert",
+      "id": 5
+    },
+    {
+      "name": "Gregory Hilpert",
+      "id": 6
+    },
+    {
+      "name": "Melba Hartmann",
+      "id": 7
+    },
+    {
+      "name": "Mrs. Kathleen Armstrong",
+      "id": 8
+    },
+    {
+      "name": "Taylor Dickinson",
+      "id": 9
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Red Swan",
+      "userId": 3
+    },
+    {
+      "userId": 3,
+      "title": "Tasty Fresh Bacon",
+      "id": 11
+    }
+  ],
+  "photos": [
+    {
+      "url": "https://picsum.photos/seed/0KNarn/150/150",
+      "albumId": 10,
+      "id": 6
+    },
+    {
+      "url": "https://loremflickr.com/150/150?lock=3299887806414848",
+      "albumId": 11,
+      "id": 7
+    },
+    {
+      "url": "https://picsum.photos/seed/epgm1Dl/150/150",
+      "albumId": 11,
+      "id": 8
+    }
+  ]
+}
